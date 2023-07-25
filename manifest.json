@@ -6,9 +6,6 @@
     "action": {
         "default_popup": "hello.html"
     },
-    "background": {
-        "service_worker": "background.js"
-    },
     "icons": {
         "16": "images/icon-16.png",
         "32": "images/icon-32.png",
@@ -24,8 +21,5 @@
                 "https://school.programmers.co.kr/learn/courses/30/lessons/*"
             ]
         }
-    ],
-    "permissions": [
-        "storage"
     ]
 }
